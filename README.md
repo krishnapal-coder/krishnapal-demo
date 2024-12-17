@@ -1,4 +1,4 @@
 # krishnapal-demo
 This is my first Git Repository
 <br>
-Author - Krishna pal
+Author - Krishna pal(singipur)
